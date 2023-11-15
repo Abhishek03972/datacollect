@@ -1,0 +1,28 @@
+.mb-4.mt-2{
+    
+    text-align: center;
+    text-transform: uppercase;
+   
+    width: 350px;
+   
+}
+.mb-3{
+    border-radius: 20px;
+  width: 350px;
+ 
+    
+}
+.btn{
+    background-color: skyblue;
+}
+.container.mt-4{
+    transform: translatex(300px);
+    width: 600px;
+    margin-left: 600px;
+    
+    transform: translatey(-450px);
+
+}
+body{
+    background-image: url(data.jpg);
+}
